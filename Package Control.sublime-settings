@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"LiveStyle",
+		"Package Control",
+		"PHP-Twig",
+		"sublimelint",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/alpha/packages.json",
+		"https://github.com/lunixbochs/sublimelint/tree/st3"
+	]
+}
